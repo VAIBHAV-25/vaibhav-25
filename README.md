@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VAIBHAV-25
 - 👀 I’m interested in Development & Coding
-- 🌱 I’m pursuing B.Tech from Jaypee University of Engineering and Technology
+- 🌱 I had pursued B.Tech from Jaypee University of Engineering and Technology
 - 📫 Mail me at vaibhavsinghvi254@gmail.com
 - ✨ Portfolio : https://vaibhavsinghvi.netlify.app
 

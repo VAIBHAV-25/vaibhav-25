@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VAIBHAV-25
+- 👋 Hi, I’m Vaibhav Singhvi
 - 👀 I’m interested in Development & Coding
 - 🌱 I had pursued B.Tech from Jaypee University of Engineering and Technology
 - 📫 Mail me at vaibhavsinghvi254@gmail.com

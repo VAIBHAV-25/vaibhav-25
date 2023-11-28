@@ -3,8 +3,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vaibhav Manoj Singhvi
 =============================================================================================================================================
 
-Web Developer
--------------
+Fullstack Web Developer
+-----------------------
 
 I am deeply enthusiastic about crafting and advancing clean, distinctive, and elegant products. My specialization lies in constructing progressive Web Applications. I am dedicated to maintaining clean, readable, and modular code, ensuring it remains well-refactored. My passion lies in tackling intricate user interfaces, solving complex problems, and continuously optimizing website performance to achieve an excellent user experience.
 
@@ -12,6 +12,7 @@ I am deeply enthusiastic about crafting and advancing clean, distinctive, and el
 * 🖥️  See my portfolio at [My personal website](http://vaibhavsinghvi.netlify.app)
 * ✉️  You can contact me at [vaibhavsinghvi254@gmail.com](mailto:vaibhavsinghvi254@gmail.com)
 * 🧠  I'm learning to build more optimized and modular code layouts
+* ⚡  Get to know more about me at https://tinyurl.com/vaibhavsinghvi
 
 ### Skills
 

@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Manoj Singhvi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-25" alt="vaibhav-25" /></a> </p>
-
 - 🔭 I’m currently working at [Polkassembly](https://polkadot.polkassembly.io/opengov)
 
 - 🌱 I’m currently learning **Backend Technologies**

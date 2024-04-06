@@ -8,4 +8,5 @@ I am deeply enthusiastic about crafting and advancing clean, distinctive, and el
 * 🖥️  See my portfolio at [My personal website](http://vaibhavsinghvi.netlify.app)
 * ✉️  You can contact me at [vaibhavsinghvi254@gmail.com](mailto:vaibhavsinghvi254@gmail.com)
 * 🧠  I'm learning to build more optimized and modular code layouts
+* ✨ Familiar with Javascript, ReactJS, NextJS, Angular and GoLang
 * ⚡  Get to know more about me at https://tinyurl.com/vaibhavsinghvi

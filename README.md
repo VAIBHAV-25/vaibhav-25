@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singhvi</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-25" alt="vaibhav-25" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-25" alt="vaibhav-25" /></a> </p>
+
+<br><br>
 
 - 🔭 I’m currently working at [Polkassembly](https://polkadot.polkassembly.io/opengov)
 

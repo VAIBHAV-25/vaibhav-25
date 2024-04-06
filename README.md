@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vaibhav Singhvi and I'm a Web Developer, from Udaipur (Raj.), INDIA</h2>
+<h2 align="left">Hi 👋! My name is Vaibhav Singhvi and I'm a Web Developer</h2>
 
 ###
 

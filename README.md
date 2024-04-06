@@ -182,10 +182,4 @@
   </a>
 </div>
 
-
-
-
-
-![snake gif](https://github.com/VAIBHAV-25/VAIBHAV-25/blob/output/github-contribution-grid-snake.gif)
-
 ###

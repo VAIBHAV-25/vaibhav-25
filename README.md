@@ -2,8 +2,27 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw30Ih43UzBC5gJwgbg7qZ9m&ust=1712469367737000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj8xNXzrIUDFQAAAAAdAAAAABAE"  />
+<h2 align="left">About me</h2>
 
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-25&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-25" /> </p>
+
+- 🔭 I’m currently working at [Polkassembly](https://polkadot.polkassembly.io/opengov)
+
+- 🌱 I’m currently learning **Backend Technologies and Cloud**
+
+- 👯 I’m looking to collaborate on **AI related Web Dev Projects**
+
+- 👨‍💻 All of my projects are available at [https://vaibhavsinghvi.netlify.app](https://vaibhavsinghvi.netlify.app)
+
+- 💬 Ask me about **react, javaScript, typeScript and FE tech**
+
+- 📫 How to reach me **vaibhavsinghvi254@gmail.com**
+
+- 📄 Know about my experiences [https://tinyurl.com/vaibhavsinghvi](https://tinyurl.com/vaibhavsinghvi)
+
+- ⚡ Fun fact **I love travelling a lot**
 ###
 
 <div align="left">

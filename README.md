@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vaibhavsinghvi254@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/vaibhavsinghvi](https://tinyurl.com/vaibhavsinghvi)
+- 📄 Know about my experiences [https://tinyurl.com/vaibhavsinghvi](https://tinyurl.com/542bnxcy)
 
 - ⚡ Fun fact **I love travelling a lot**
 ###

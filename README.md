@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/vaibhavsinghvi](https://tinyurl.com/542bnxcy)
 
-- ⚡ Fun fact **I love travelling a lot**
+- ⚡ Fun fact **I love travelling and listening music a lot**
 ###
 <br>
 <div align="left">
